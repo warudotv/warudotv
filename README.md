@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá, sou o Warudo! 👋
 
-<!--
-**warudotv/warudotv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Gamer, Estudante de TI/Dev e entusiasta de automação, segurança e performance no Windows.
 
-Here are some ideas to get you started:
+### 🧩 Sobre Mim
+Autista (Nível 1 de suporte). Acredito que a tecnologia deve ser prática, segura e acessível.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack & Ferramentas
+* **Linguagens:** PowerShell, Python e Shell (.sh) (foco em automação).
+* **Foco:** Otimização de sistemas e ferramentas de produtividade.
+
+### 🚀 Projetos em Destaque
+* [warudotech-scripts](https://github.com/warudotv/warudotech-scripts): Automação para downloads seguros com yt-dlp e FFmpeg.
+
+### 📱 Conecte-se comigo
+* [TikTok](https://www.tiktok.com/@warudotech) - Dicas de tech e bastidores de dev.
+* [YouTube]() - Tutoriais técnicos e gameplays.
+* [Instagram](https://www.instagram.com/psilvxfer/) - Bastidores, setup e dia a dia.
+
+*Code, game, repeat.*
