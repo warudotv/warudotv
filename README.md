@@ -13,8 +13,8 @@ Autista (Nível 1 de suporte). Acredito que a tecnologia deve ser prática, segu
 * [warudotech-scripts](https://github.com/warudotv/warudotech-scripts): Automação para downloads seguros com yt-dlp e FFmpeg.
 
 ### 📱 Conecte-se comigo
-* [TikTok](https://www.tiktok.com/@warudotech) - Dicas de tech e bastidores de dev.
-* [YouTube](https://www.youtube.com/@warudotech) - Tutoriais técnicos e gameplays.
+* [TikTok](https://www.tiktok.com/@warudotech) - Dicas de tech e Gameplay.
+* [YouTube](https://www.youtube.com/@warudotech) - Tutoriais técnicos.
 * [Instagram](https://www.instagram.com/psilvxfer/) - Bastidores, setup e dia a dia.
 
 *Code, game, repeat.*
