@@ -1,4 +1,4 @@
-# Olá, sou o Warudo! 👋
+# Olá, sou o Araúdo! 👋
 
 Gamer, Estudante de TI/Dev e entusiasta de automação, segurança e performance no Windows.
 
