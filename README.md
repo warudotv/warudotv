@@ -5,15 +5,15 @@ Gamer, Estudante de TI/Dev e entusiasta de automação, segurança e performance
 ### 🎮 Jogo Favorito 
 * Free Fire 🔥
 ___
-* #Conta1
-* Nick: KPanic' 404"
+* #Conta1 (Prime 8 👑)
+* Nick: KPanic' 404
 * UID: 443227470
 ___
-* #Conta2
+* #Conta2 (Prime 2 👑)
 * Nick: @yellowtv61
 * UID: 2550159751
 ___
-* #Conta 3
+* #Conta 3 (Prime 3 👑)
 * Nick: whytezz7 ✝️
 * UID: 3772214265
 
