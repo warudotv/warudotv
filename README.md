@@ -1,6 +1,21 @@
-# Olá, sou o Araúdo! 👋
+# Olá, sou o Pedro Silva (Araúdo)! 👋
 
 Gamer, Estudante de TI/Dev e entusiasta de automação, segurança e performance no Android, Windows e Linux.
+
+### 🎮 Jogo Favorito 
+* Free Fire 🔥
+___
+* #Conta1
+* Nick: KPanic' 404"
+* UID: 443227470
+___
+* #Conta2
+* Nick: @yellowtv61
+* UID: 2550159751
+___
+* #Conta 3
+* Nick: whytezz7 ✝️
+* UID: 3772214265
 
 ### 🧩 Sobre Mim
 Autista (Nível 1 de suporte). Acredito que a tecnologia deve ser prática, segura e acessível.
