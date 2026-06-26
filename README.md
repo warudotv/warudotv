@@ -1,6 +1,14 @@
 # Olá, sou o Pedro Silva (Araúdo)! 👋
 
 Gamer, Estudante de TI e entusiasta de automação, segurança e performance no Android, Windows e Linux.
+___
+### 🧩 Sobre Mim
+Autista (Nível 1 de suporte). Acredito que a tecnologia deve ser prática, segura e acessível.
+___
+### 🛠 Tech Stack & Ferramentas
+* **Linguagens:** PowerShell, Python e Shell (foco em automação).
+* **Foco:** Otimização de sistemas e ferramentas de produtividade.
+___
 
 ### 🎮 Jogo Favorito 
 * Free Fire 🔥
@@ -16,13 +24,6 @@ ___
 * #Conta 3 (Prime 3 👑)
 * Nick: whytezz7 ✝️
 * UID: ```3772214265```
-___
-### 🧩 Sobre Mim
-Autista (Nível 1 de suporte). Acredito que a tecnologia deve ser prática, segura e acessível.
-___
-### 🛠 Tech Stack & Ferramentas
-* **Linguagens:** PowerShell, Python e Shell (foco em automação).
-* **Foco:** Otimização de sistemas e ferramentas de produtividade.
 ___
 ### 🚀 Projetos em Destaque
 * [warudotech-scripts](https://github.com/warudotv/warudotech-scripts): Automação para downloads seguros com yt-dlp e FFmpeg.
